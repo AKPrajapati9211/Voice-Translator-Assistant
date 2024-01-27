@@ -12,7 +12,7 @@ This is a project that implements a voice translator using Python. The applicati
 
 1. Clone this repository to your local machine.
 ```
-git clone https://github.com/<your-username>/voice-translator-python.git
+git clone https://github.com/<your-username>/Voice-Translator-Assistant.git
 ```
 2. Install the required libraries:
 ```
